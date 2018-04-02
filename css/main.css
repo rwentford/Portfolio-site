@@ -1,47 +1,18 @@
-.wrapper {
-  max-width: 70%;
-  margin: auto;
-  padding-top: 3rem;
-}
 h1 {
-  font-family: 'IBM Plex Serif', serif;
-  font-weight: bold;
-  font-style: italic;
-  font-size: 2.999em;
-  max-width: 80%;
+  font-family: 'IBM Plex Serif', serif !important;
+  font-weight: bold !important;
+  font-style: italic !important;
+  font-size: 2.999em !important;
+  max-width: 80% !important;
 }
 
 h2 {
-  font-family: 'IBM Plex Serif', serif;
-  font-weight: bold;
-  font-size: 2.414em;
+  font-family: 'IBM Plex Serif', serif !important;
+  font-weight: bold !important;
+  font-size: 2.414em !important;
 }
 
 p {
-  font-family: 'IBM Plex Serif', serif;
-  font-size: 2em;
-}
-
-/* Media Queries */
-
-@media only screen and (max-width: 1432px) {
-
-  header {
-    
-  }
-}
-
-@media only screen and (max-width: 1283px) {
-
-  .wrapper {
-    max-width: 90%;
-    margin: auto;
-    padding-top: 3rem;
-  }
-}
-
-@media only screen and (max-width: 985px) {
-
-
-
+  font-family: 'IBM Plex Serif', serif !important;
+  font-size: 2em !important;
 }
